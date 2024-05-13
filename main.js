@@ -21,7 +21,8 @@ function ID(id){
 }
 
 function activePage(){
-	currentPageName = location.hash.replace("#","");
+	currentPageName = location.hash.replace("#","") || "About";
+	
 	ID(currentPageName).classList.add("active");
 }
 
