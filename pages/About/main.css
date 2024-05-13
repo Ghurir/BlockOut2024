@@ -1,0 +1,22 @@
+.headText{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 700%;
+	color: #000000;
+	font-weight: 700;
+	text-decoration: line-through rgb(255, 255, 255);
+	text-align: center;
+}
+
+.subText{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 150%;
+	color: #474747;
+	text-align: center;
+	width:100%;
+}
+
+.r {
+	
+	font-weight: 700;
+	color: #6e3a3a;
+}
